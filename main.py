@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from carparktool import CARParkTool
+from carparktool import CarParkTool
 
 __CHANNEL_USERNAME__ = "CarParkingDizz_Tool"
 __GROUP_USERNAME__   = "Carparkingdizz_chat"
